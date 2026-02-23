@@ -1,13 +1,13 @@
-public class GenericTicket<T> {
-    private T bookingCode;
+public class GenericTicket<B> {
+    private B bookingCode;
     private String passengerName;
 
-    public GenericTicket(T bookingCode, String passengerName) {
+    public GenericTicket(B bookingCode, String passengerName) {
         this.bookingCode = bookingCode;
         this.passengerName = passengerName;
     }
 
-    public T getBookingCode() {
+    public B getBookingCode() {
         return bookingCode;
     }
 
