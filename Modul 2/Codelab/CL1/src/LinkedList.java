@@ -1,4 +1,4 @@
-public class CL2 {
+public class LinkedList {
 
     // ==================================================================================
     // 2. Linked List (ANIME EDITION: ONE PIECE LOG POSE)
@@ -126,7 +126,7 @@ public class CL2 {
 
     // MAIN METHOD to test the journey
     public static void main(String[] args) {
-        CL2 grandLine = new CL2();
+        LinkedList grandLine = new LinkedList();
 
         // The Journey Begins
         grandLine.addIsland("Alabasta");

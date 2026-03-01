@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-public class CL1 {
+public class ArrayList {
     public static void main(String[] args) {
 
         // ==================================================================================
@@ -33,7 +32,7 @@ public class CL1 {
 
         // 1) Declaration of ArrayList
         // TODO: Create a list of Strings named 'jujutsuSorcerers'
-        ArrayList<String> jujutsuSorcerers = new ArrayList<>();
+        java.util.ArrayList<String> jujutsuSorcerers = new java.util.ArrayList<>();
 
         // 2) add(element)
         // TODO: Add these students to the class: "Itadori", "Fushiguro", "Kugisaki"
