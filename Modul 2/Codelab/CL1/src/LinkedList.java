@@ -77,8 +77,9 @@ public class LinkedList {
         }
 
         // If the island doesn't exist on the map
-        if (current == null)
+        if (current == null){
             return;
+        }
 
         // Unlink the destroyed island
         prev.next = current.next;
