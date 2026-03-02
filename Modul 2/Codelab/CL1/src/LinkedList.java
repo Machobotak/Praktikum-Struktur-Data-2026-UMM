@@ -77,8 +77,9 @@ public class LinkedList {
         }
 
         // If the island doesn't exist on the map
-        if (current == null)
+        if (current == null){
             return;
+        }
 
         // Unlink the destroyed island
         prev.next = current.next;
@@ -123,6 +124,7 @@ public class LinkedList {
         }
         return count;
     }
+
 
     // MAIN METHOD to test the journey
     public static void main(String[] args) {
