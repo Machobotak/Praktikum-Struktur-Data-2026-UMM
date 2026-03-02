@@ -125,6 +125,7 @@ public class LinkedList {
         return count;
     }
 
+
     // MAIN METHOD to test the journey
     public static void main(String[] args) {
         LinkedList grandLine = new LinkedList();
