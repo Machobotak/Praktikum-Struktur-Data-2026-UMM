@@ -23,8 +23,8 @@ public class Main {
         String name = input.nextLine();
 
         System.out.print("Enter Identity Number: ");
-        long identity = input.nextLong();
-        input.nextLine();
+        String identity = input.nextLine();
+
 
         System.out.print("Enter Booking Code: ");
         String bookingCode = input.nextLine();
@@ -55,6 +55,7 @@ public class Main {
 
         Passenger<Long> passenger = new Passenger<>(name, identity);
         Ticket<Long> ticket = new Ticket<>(bookingCode, passenger, ticketClass);
+
 
         printTicketInfo(ticket);
     }
