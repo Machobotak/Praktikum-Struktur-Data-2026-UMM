@@ -11,14 +11,14 @@ public class Main {
         manager.displayAll();
 
         System.out.println("\n=== SEARCH: Malang ===");
-        manager.searchRoute("Malang");
+        manager.searchRoute("Surabaya");
 
         System.out.println("\n=== REMOVE FIRST ===");
         manager.removeFirst();
         manager.displayAll();
 
         System.out.println("\n=== REMOVE BY ID ===");
-        manager.removeById(2);
+        manager.removeById(3);
         manager.displayAll();
     }
 }

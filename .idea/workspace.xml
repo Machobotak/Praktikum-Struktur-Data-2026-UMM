@@ -4,11 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b36ff9a-4d9e-4ee9-aa4d-300b115eac6e" name="Changes" comment="praktikum" />
+    <list default="true" id="8b36ff9a-4d9e-4ee9-aa4d-300b115eac6e" name="Changes" comment="praktikum">
+      <change afterPath="$PROJECT_DIR$/Modul 3/Tugas/Demo/src/task1/CharStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/Tugas/Demo/src/task1/DoubleStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/Tugas/Demo/src/task1/ExpressionProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/Tugas/Demo/src/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/Tugas/Demo/src/task2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/Tugas/Demo/src/task2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 3/Tugas/Demo/src/task2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 4/Tugas/Demo/src/Task1/StationHierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 4/Tugas/Demo/src/Task2/BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 4/Tugas/Demo/src/Task2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 4/Tugas/Demo/src/Task2/EmployeeBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 4/Tugas/Demo/src/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 5/Tugas/dmeo/src/AuthManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 5/Tugas/dmeo/src/InventoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 5/Tugas/dmeo/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 6/Codelab/GraphExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 6/Codelab/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modul 2/Tugas/demo/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Modul 2/Tugas/demo/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modul 2/Tugas/demo/src/taks2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modul 2/Tugas/demo/src/taks2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modul 4/Codelab/DATA-STRUCTURE/CODELAB_TREE/BinaryTreeExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modul 4/Codelab/DATA-STRUCTURE/CODELAB_TREE/BinaryTreeExercise.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="175" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +50,10 @@
     &quot;accountId&quot;: &quot;705c0b53-2944-4106-9c97-5c87711e1406&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -33,30 +62,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.GenericTicket.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Ayub/Praktikum/Praktikum-Struktur-Data-2026-UMM&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GenericTicket.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Kuliah/SEMESTER 4/Praktikum/Struktur Data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kuliah\SEMESTER 4\Praktikum\Struktur Data\Modul 6\Codelab" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -70,6 +105,7 @@
       <workItem from="1771819317876" duration="162000" />
       <workItem from="1771819795530" duration="3214000" />
       <workItem from="1771839160144" duration="65000" />
+      <workItem from="1780211796538" duration="2062000" />
     </task>
     <task id="LOCAL-00001" summary="praktikum">
       <option name="closed" value="true" />
